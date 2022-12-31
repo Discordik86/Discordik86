@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Discordik
+- 📚 I'm know languages:
+- Russian
+- English
+- C++
